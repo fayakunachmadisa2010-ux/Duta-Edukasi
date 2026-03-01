@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "name": "Kertas HVS A4 80gsm Sinar Dunia",
+    "description": "Kertas HVS A4 80gsm berkualitas tinggi, cocok untuk percetakan dan fotokopi. 1 rim berisi 500 lembar.",
+    "category": "office-supplies",
+    "categoryLabel": "Perlengkapan Kantor",
+    "price": "Hubungi Kami",
+    "unit": "rim",
+    "image": "https://images.unsplash.com/photo-1568667256549-094345857637?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "name": "Pulpen Ballpoint Pilot G2 Box",
+    "description": "Pulpen gel Pilot G2 tinta hitam, menulis halus dan tahan lama. 1 box berisi 12 pcs.",
+    "category": "office-supplies",
+    "categoryLabel": "Perlengkapan Kantor",
+    "price": "Hubungi Kami",
+    "unit": "box",
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "name": "Ordner/Binder A4 5cm",
+    "description": "Ordner/binder hard cover A4 kapasitas 5cm untuk menyimpan dokumen penting. Tersedia berbagai warna.",
+    "category": "office-supplies",
+    "categoryLabel": "Perlengkapan Kantor",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "name": "Tinta Printer Epson L360 Set",
+    "description": "Tinta printer original Epson untuk seri L360, terdiri dari 4 warna (BK, C, M, Y). Hasil cetak tajam.",
+    "category": "office-supplies",
+    "categoryLabel": "Perlengkapan Kantor",
+    "price": "Hubungi Kami",
+    "unit": "set",
+    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "name": "Buku Tulis 58 Lembar Sidu",
+    "description": "Buku tulis siswa 58 lembar, garis biru, cover menarik. Cocok untuk SD, SMP, SMA.",
+    "category": "school-supplies",
+    "categoryLabel": "Perlengkapan Sekolah",
+    "price": "Hubungi Kami",
+    "unit": "lusin",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "name": "Tas Sekolah SD Ransel",
+    "description": "Tas ransel sekolah SD berkualitas, bahan tebal dan tahan lama, kapasitas besar dengan banyak kantong.",
+    "category": "school-supplies",
+    "categoryLabel": "Perlengkapan Sekolah",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "7",
+    "name": "Spidol Whiteboard Snowman",
+    "description": "Spidol whiteboard Snowman tinta kering cepat, mudah dihapus. 1 box berisi 12 pcs warna-warni.",
+    "category": "school-supplies",
+    "categoryLabel": "Perlengkapan Sekolah",
+    "price": "Hubungi Kami",
+    "unit": "box",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "name": "Globe Dunia 30cm",
+    "description": "Globe dunia diameter 30cm, detail lengkap dengan nama negara dan kota, dudukan plastik kuat.",
+    "category": "educational-equipment",
+    "categoryLabel": "Alat Peraga Pendidikan",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1569317002804-ab77bcf1bce4?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "9",
+    "name": "Papan Tulis Whiteboard 120x240cm",
+    "description": "Papan tulis whiteboard ukuran 120x240cm, permukaan email putih berkualitas, rangka aluminium.",
+    "category": "educational-equipment",
+    "categoryLabel": "Alat Peraga Pendidikan",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "10",
+    "name": "Kit IPA Lengkap SD/SMP",
+    "description": "Kit alat peraga IPA lengkap untuk SD/SMP, mencakup alat listrik, magnet, optik, dan mekanik.",
+    "category": "educational-equipment",
+    "categoryLabel": "Alat Peraga Pendidikan",
+    "price": "Hubungi Kami",
+    "unit": "set",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "11",
+    "name": "Kursi Plastik Fasilitas Umum",
+    "description": "Kursi plastik kuat untuk fasilitas umum, ruang tunggu, mushola, dan area publik. Stackable.",
+    "category": "public-facility",
+    "categoryLabel": "Perlengkapan Fasilitas Umum",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "12",
+    "name": "Tempat Sampah Pilah 3 Warna",
+    "description": "Tempat sampah pilah 3 compartment (organik, anorganik, B3), cocok untuk kantor dan sekolah.",
+    "category": "public-facility",
+    "categoryLabel": "Perlengkapan Fasilitas Umum",
+    "price": "Hubungi Kami",
+    "unit": "set",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "13",
+    "name": "APAR CO2 3kg Protector",
+    "description": "Alat Pemadam Api Ringan (APAR) CO2 kapasitas 3kg, cocok untuk kebakaran tipe B (cairan, listrik). Tersertifikasi SNI.",
+    "category": "safety-equipment",
+    "categoryLabel": "Peralatan Keselamatan",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "14",
+    "name": "APAR Dry Powder 6kg ABC",
+    "description": "APAR Dry Chemical Powder 6kg untuk kebakaran tipe A, B, C. Dilengkapi bracket dan selang.",
+    "category": "safety-equipment",
+    "categoryLabel": "Peralatan Keselamatan",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+    "inStock": true
+  },
+  {
+    "id": "15",
+    "name": "Helm Safety SNI Proyek",
+    "description": "Helm keselamatan kerja SNI, bahan HDPE kuat, tali pengikat yang nyaman. Tersedia berbagai warna.",
+    "category": "safety-equipment",
+    "categoryLabel": "Peralatan Keselamatan",
+    "price": "Hubungi Kami",
+    "unit": "pcs",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=400&q=80",
+    "inStock": true
+  }
+]
