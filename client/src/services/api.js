@@ -16,7 +16,8 @@ export const api = {
   getProduct: async (id) => {
     const res = await fetch(`${BASE_URL}/products/${id}`);
     if (!res.ok) throw new Error("Produk tidak ditemukan");
-    return res.json();
+    const json = await res.json();
+    return json.data;
   },
 
   // Submit an order
