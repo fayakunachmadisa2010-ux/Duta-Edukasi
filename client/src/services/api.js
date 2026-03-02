@@ -1,5 +1,5 @@
 // api.js - All API calls to Express backend
-const BASE_URL = "https://duta-edukasi-production.up.railway.app/api";
+const BASE_URL = "https://duta-edukasi-production.up.railway.app";
 
 export const api = {
   // Get all products, optionally filtered by category
