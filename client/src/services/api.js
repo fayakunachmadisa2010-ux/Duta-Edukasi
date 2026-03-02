@@ -5,8 +5,8 @@ export const api = {
   // Get all products, optionally filtered by category
   getProducts: async (category = "") => {
     const url = category
-      ? `${BASE_URL}/products?category=${category}`
-      : `${BASE_URL}/products`;
+      ? `${BASE_URL}/api/products?category=${category}`
+      : `${BASE_URL}/api/products`;
     const res = await fetch(url);
     if (!res.ok) throw new Error("Gagal memuat produk");
     return res.json();
@@ -14,7 +14,7 @@ export const api = {
 
   // Get single product by ID
   getProduct: async (id) => {
-    const res = await fetch(`${BASE_URL}/products/${id}`);
+    const res = await fetch(`${BASE_URL}/api/products/${id}`);
     if (!res.ok) throw new Error("Produk tidak ditemukan");
     const json = await res.json();
     return json.data;
@@ -22,7 +22,7 @@ export const api = {
 
   // Submit an order
   submitOrder: async (orderData) => {
-    const res = await fetch(`${BASE_URL}/orders`, {
+    const res = await fetch(`${BASE_URL}/api/orders`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(orderData),
